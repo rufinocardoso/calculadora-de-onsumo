@@ -1,0 +1,35 @@
+
+body {
+  background-color: #0d3158;
+
+}
+
+.monitor {
+  background: #667888;
+  margin-top: 0px
+}
+
+.top{
+  margin-top: 61px;
+}
+
+.screen {
+  background: linear-gradient(-190deg, #333, black);
+  font-family: monospace;
+  border: solid 5px black;
+}
+
+.light {
+  background: #c52424;
+}
+
+#resultado li {
+  font-size: 1.2em;
+  line-height: 1.4em;
+  color: #61ca49;
+}
+
+.story [class*=word] {
+  padding: 0 5px;
+  border-bottom: dotted 2px #61ca49;
+}
